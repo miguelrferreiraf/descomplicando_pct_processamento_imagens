@@ -1,16 +1,5 @@
-# LABs
-
-## 103_DescomplicandoCriacaoPacotesProcessamentoImagensPython
-
-Descomplicando a criação de pacotes de processamento de imagens em Python
+# Descomplicando a criação de pacotes de processamento de imagens em Python
 
 DESCRIÇÃO
-Neste projeto você aprenderá a criar o seu primeiro pacote de processamento de imagens em Python e disponibilizá-lo no repositório Pypi. Assim você poderá reutilizá-lo facilmente e compartilhá-lo com outras pessoas. A especialista também vai mostrar um exemplo de pacote para processamento de imagens.
+Este projeto demonstra a criaçao de um pacote de processamento de imagens e sua disponiblizaçao no Pypi para uso posterior compartilhado.
 
-Python - Back-End - Intermediário
-ESPECIALISTA
-#### Karina Kato
-Machine Learning Engineer, Take Blip
-
-
-https://web.dio.me/lab/descomplicando-a-criacao-de-pacotes-de-processamento-de-imagens-em-python/learning/3d3925ad-7a05-4068-9cf9-7f3f7b18e99f
